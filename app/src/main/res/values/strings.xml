@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Appetizer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Format">Hello World from section: %1$d</string>
+    <string name="title_activity_table_ui">TableUI</string>
+    <string name="title_activity_server_home">ServerHome</string>
+    <string name="title_activity_table_name_input">TableNameInput</string>
+    <string name="title_activity_service">Service</string>
+
+</resources>

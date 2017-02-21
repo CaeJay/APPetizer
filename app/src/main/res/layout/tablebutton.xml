@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:id="@+id/table" >
+
+
+
+
+    <ImageView
+        android:layout_width="103dp"
+        android:layout_height="84dp"
+        app:srcCompat="@android:drawable/checkbox_off_background"
+        android:scaleType="centerCrop"
+
+        android:id="@+id/tableButton" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.04"
+        android:textAllCaps="true"
+        android:paddingLeft="15dp"
+        android:textSize="20dp"
+        android:id="@+id/tableName"
+
+        android:text="Table " />
+</LinearLayout>
